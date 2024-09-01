@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Employee_Management_System]
 - 🌱 I’m currently learning **[Jvascript]**
-- 👯 I’m looking to collaborate on **[Your Collaboration Interests]**
+- 👯 I’m looking to collaborate on **[Company]**
 - 🤝 I’m looking for help with **[Your Help Request]**
 - 💬 Ask me about **[Java Development]**
 - 📫 How to reach me **[sunny9113423652@gmail.com]**
