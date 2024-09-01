@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
-- 🔭 I’m currently working on [Your Project Name]
-- 🌱 I’m currently learning **[Your Learning Focus]**
+- 🔭 I’m currently working on [Employee_Management_System]
+- 🌱 I’m currently learning **[Jvascript]**
 - 👯 I’m looking to collaborate on **[Your Collaboration Interests]**
 - 🤝 I’m looking for help with **[Your Help Request]**
-- 💬 Ask me about **[Your Expertise]**
+- 💬 Ask me about **[Java Development]**
 - 📫 How to reach me **[sunny9113423652@gmail.com]**
 - ⚡ Fun fact **[A Fun Fact About You]**
 
